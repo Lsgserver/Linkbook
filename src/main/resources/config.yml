@@ -1,0 +1,17 @@
+books:
+  links:
+    command: "links"
+    title: "Nützliche Links"
+    author: "Server Team"
+    entries:
+      - type: url
+        name: "Discord"
+        link: "https://discord.gg/deinserver"
+  regeln:
+    command: "regeln"
+    title: "Server Regeln"
+    author: "Admin"
+    entries:
+      - type: url
+        name: "Regeln Website"
+        link: "https://deinserver.de/regeln"

@@ -1,0 +1,4 @@
+name: Linkbook
+main: org.linkbook.Linkbook
+version: 1.0
+api-version: 1.20
