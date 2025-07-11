@@ -11,7 +11,7 @@ LinkBook is a Paper Minecraft plugin that lets you add custom links to a config 
 
 ## Installation
 
-1. Download the latest version of LinkBook from [Releases][((https://github.com/YOUR_GITHUB_REPO/releases](https://github.com/Lsgserver/Linkbook/tree/main/target)).
+1. Download the latest version of LinkBook from [Releases](https://github.com/Lsgserver/Linkbook/tree/main/target).
 2. Place the `LinkBook.jar` file into your server’s `plugins` folder.
 3. Restart your server. The plugin will generate a `config.yml` file in a Linkbook folder.
 
